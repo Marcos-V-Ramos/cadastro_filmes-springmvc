@@ -11,7 +11,7 @@ Atividade Individual Cadastro de filmes com Spring MVC - Senac TADS
 - Cada filme deve ter as seguintes informações:
   1. Título do filme;
   2. Gênero do filme (ação, terror, drama, etc);
-  3.Ano de lançamento.
+  3. Ano de lançamento.
 - Considerar os wireframes seguintes como referência para navegação:
 
 ## Wireframes:
